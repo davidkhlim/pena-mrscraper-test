@@ -1,0 +1,79 @@
+{
+  "ping_id": "a0e866d0-d13b-4b9c-8974-8c55b77d17bb",
+  "created_date": "2025-04-15",
+  "created_time": "12:00:13",
+  "service_area_name": "BALI",
+  "distance_group": 48,
+  "booking_pickup_s2id": "1/123221020201011011210331010103",
+  "booking_pickup_latitude": -8.742267704665494,
+  "booking_pickup_longitude": 115.16412457424144,
+  "booking_destination_s2id": "1/123221010100101111111111111100",
+  "booking_destination_latitude": -8.413532,
+  "booking_destination_longitude": 115.277832,
+  "regency_name": "Badung",
+  "location_type": "airport",
+  "booking_pickup_name": "Ngurah Rai International Airport - DPS",
+  "row_index": 20,
+  "prices": [
+    {
+      "name": "GrabCar Airport DPS",
+      "price": 481500,
+      "lowerBound": 48150000,
+      "upperBound": 48150000,
+      "description": "Mobil terdekat (2x bagasi besar)",
+      "capacity": "4",
+      "estimation": "Est. sejauh 7 mnt",
+      "currency": "IDR",
+      "vehicle_id": 2150,
+      "distance_in_meter": 53660
+    },
+    {
+      "name": "GrabBike",
+      "price": 128000,
+      "lowerBound": 12800000,
+      "upperBound": 12800000,
+      "description": "Motor apa saja, terdekat denganmu",
+      "capacity": "1",
+      "estimation": "Est. sejauh 2 mnt",
+      "currency": "IDR",
+      "vehicle_id": 212,
+      "distance_in_meter": 48757
+    },
+    {
+      "name": "GrabCar Plus Airport",
+      "price": 651000,
+      "lowerBound": 65100000,
+      "upperBound": 65100000,
+      "description": "2x Bagasi Besar, Mobil Baru & Nyaman",
+      "capacity": "6",
+      "estimation": "Est. sejauh 2 mnt",
+      "currency": "IDR",
+      "vehicle_id": 15761,
+      "distance_in_meter": 50705
+    },
+    {
+      "name": "GrabCar Premium Airport",
+      "price": 802000,
+      "lowerBound": 80200000,
+      "upperBound": 80200000,
+      "description": "Mobil dan pickup premium (2x bagasi besar)",
+      "capacity": "6",
+      "estimation": "Est. sejauh 11 mnt",
+      "currency": "IDR",
+      "vehicle_id": 13331,
+      "distance_in_meter": 53660
+    },
+    {
+      "name": "GrabCar Electric Airport",
+      "price": 797000,
+      "lowerBound": 79700000,
+      "upperBound": 79700000,
+      "description": "Mobil listrik eksklusif (2x bagasi besar)",
+      "capacity": "2",
+      "estimation": "Est. sejauh 9 mnt",
+      "currency": "IDR",
+      "vehicle_id": 13205,
+      "distance_in_meter": 50705
+    }
+  ]
+}

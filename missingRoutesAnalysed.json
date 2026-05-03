@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "row": 2,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_10_2.json",
+      "pickup_distance_m": 41,
+      "destination_distance_m": 211,
+      "total_route_distance_m": 252,
+      "route_class": "gps_noise",
+      "reasons": [
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 3,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_14_29.json",
+      "pickup_distance_m": 303,
+      "destination_distance_m": 1689,
+      "total_route_distance_m": 1992,
+      "route_class": "clustered",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 11,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_15_35.json",
+      "pickup_distance_m": 303,
+      "destination_distance_m": 2879,
+      "total_route_distance_m": 3182,
+      "route_class": "invalid",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 24,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_13_22.json",
+      "pickup_distance_m": 41,
+      "destination_distance_m": 9154,
+      "total_route_distance_m": 9195,
+      "route_class": "invalid",
+      "reasons": [
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 28,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_10_2.json",
+      "pickup_distance_m": 272,
+      "destination_distance_m": 1119,
+      "total_route_distance_m": 1392,
+      "route_class": "clustered",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 34,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_12_9.json",
+      "pickup_distance_m": 272,
+      "destination_distance_m": 1261,
+      "total_route_distance_m": 1534,
+      "route_class": "clustered",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 47,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_16_47.json",
+      "pickup_distance_m": 11,
+      "destination_distance_m": 175,
+      "total_route_distance_m": 186,
+      "route_class": "gps_noise",
+      "reasons": [
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 48,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_16_46.json",
+      "pickup_distance_m": 11,
+      "destination_distance_m": 5811,
+      "total_route_distance_m": 5823,
+      "route_class": "invalid",
+      "reasons": [
+        "destination_coordinate"
+      ]
+    },
+    {
+      "row": 49,
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "closest_json_file": "12_00_13_22.json",
+      "pickup_distance_m": 272,
+      "destination_distance_m": 18704,
+      "total_route_distance_m": 18977,
+      "route_class": "invalid",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ]
+    }
+  ],
+  "summary": {
+    "gps_noise": 2,
+    "clustered": 3,
+    "invalid": 4
+  }
+}

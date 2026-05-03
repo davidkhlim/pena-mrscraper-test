@@ -1,0 +1,307 @@
+{
+  "missingRoutes": [
+    {
+      "row": 2,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_10_2.json",
+      "expected": {
+        "pickup": [
+          -8.742399,
+          115.163775
+        ],
+        "destination": [
+          -8.729054,
+          115.17113
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742267704665494,
+          115.16412457424144
+        ],
+        "destination": [
+          -8.728569982215816,
+          115.16927249626855
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 3,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_14_29.json",
+      "expected": {
+        "pickup": [
+          -8.742399,
+          115.163775
+        ],
+        "destination": [
+          -8.71428,
+          115.165201
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742007646114232,
+          115.16650351061435
+        ],
+        "destination": [
+          -8.699091,
+          115.165201
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 11,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_15_35.json",
+      "expected": {
+        "pickup": [
+          -8.742399,
+          115.163775
+        ],
+        "destination": [
+          -8.623497,
+          115.088115
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742007646114232,
+          115.16650351061435
+        ],
+        "destination": [
+          -8.6425,
+          115.105905
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 24,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_13_22.json",
+      "expected": {
+        "pickup": [
+          -8.742399,
+          115.163775
+        ],
+        "destination": [
+          -8.344981,
+          115.099975
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742267704665494,
+          115.16412457424144
+        ],
+        "destination": [
+          -8.339389,
+          115.182987
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 28,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_10_2.json",
+      "expected": {
+        "pickup": [
+          -8.7419399,
+          115.1665817
+        ],
+        "destination": [
+          -8.719343,
+          115.165201
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742267704665494,
+          115.16412457424144
+        ],
+        "destination": [
+          -8.728569982215816,
+          115.16927249626855
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 34,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_12_9.json",
+      "expected": {
+        "pickup": [
+          -8.7419399,
+          115.1665817
+        ],
+        "destination": [
+          -8.661089,
+          115.129625
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742267704665494,
+          115.16412457424144
+        ],
+        "destination": [
+          -8.651381,
+          115.123695
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 47,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_16_47.json",
+      "expected": {
+        "pickup": [
+          -8.7419399,
+          115.1665817
+        ],
+        "destination": [
+          -8.533574,
+          115.508891
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742007646114232,
+          115.16650351061435
+        ],
+        "destination": [
+          -8.532262512208263,
+          115.50801229855352
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 48,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_16_46.json",
+      "expected": {
+        "pickup": [
+          -8.7419399,
+          115.1665817
+        ],
+        "destination": [
+          -8.483112,
+          115.437815
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742007646114232,
+          115.16650351061435
+        ],
+        "destination": [
+          -8.450725,
+          115.396346
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    },
+    {
+      "row": 49,
+      "service_area": "BALI",
+      "regency": "Badung",
+      "pickup_name": "Ngurah Rai International Airport - DPS",
+      "reasons": [
+        "pickup_coordinate",
+        "destination_coordinate"
+      ],
+      "closest_json_file": "12_00_13_22.json",
+      "expected": {
+        "pickup": [
+          -8.7419399,
+          115.1665817
+        ],
+        "destination": [
+          -8.410287,
+          115.028805
+        ]
+      },
+      "actual": {
+        "pickup": [
+          -8.742267704665494,
+          115.16412457424144
+        ],
+        "destination": [
+          -8.339389,
+          115.182987
+        ],
+        "regency": "Badung",
+        "pickup_name": "Ngurah Rai International Airport - DPS"
+      }
+    }
+  ],
+  "fieldSummary": {
+    "pickup_coordinate": 5,
+    "destination_coordinate": 9
+  },
+  "routeSummary": {
+    "total_mismatched_routes": 9,
+    "pickup_only": 0,
+    "destination_only": 4,
+    "both": 5
+  }
+}

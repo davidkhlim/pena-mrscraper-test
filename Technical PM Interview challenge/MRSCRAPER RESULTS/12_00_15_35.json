@@ -1,0 +1,67 @@
+{
+  "ping_id": "4b811dd4-14a0-4cda-ab85-43f701dcbe52",
+  "created_date": "2025-04-15",
+  "created_time": "12:00:15",
+  "service_area_name": "BALI",
+  "distance_group": 23,
+  "booking_pickup_s2id": "1/123221020200301011131101132300",
+  "booking_pickup_latitude": -8.742007646114232,
+  "booking_pickup_longitude": 115.16650351061435,
+  "booking_destination_s2id": "1/123221013000303333333333333012",
+  "booking_destination_latitude": -8.6425,
+  "booking_destination_longitude": 115.105905,
+  "regency_name": "Badung",
+  "location_type": "airport",
+  "booking_pickup_name": "Ngurah Rai International Airport - DPS",
+  "row_index": 35,
+  "prices": [
+    {
+      "name": "GrabCar Airport DPS",
+      "price": 250500,
+      "lowerBound": 25050000,
+      "upperBound": 25050000,
+      "description": "Mobil terdekat (2x bagasi besar)",
+      "capacity": "4",
+      "estimation": "Est. sejauh 7 mnt",
+      "currency": "IDR",
+      "vehicle_id": 2150,
+      "distance_in_meter": 24327
+    },
+    {
+      "name": "GrabCar Plus Airport",
+      "price": 322000,
+      "lowerBound": 32200000,
+      "upperBound": 32200000,
+      "description": "2x Bagasi Besar, Mobil Baru & Nyaman",
+      "capacity": "6",
+      "estimation": "Est. sejauh 2 mnt",
+      "currency": "IDR",
+      "vehicle_id": 15761,
+      "distance_in_meter": 24327
+    },
+    {
+      "name": "GrabCar Premium Airport",
+      "price": 404000,
+      "lowerBound": 40400000,
+      "upperBound": 40400000,
+      "description": "Mobil dan pickup premium (2x bagasi besar)",
+      "capacity": "6",
+      "estimation": "Est. sejauh 11 mnt",
+      "currency": "IDR",
+      "vehicle_id": 13331,
+      "distance_in_meter": 24327
+    },
+    {
+      "name": "GrabCar Electric Airport",
+      "price": 399000,
+      "lowerBound": 39900000,
+      "upperBound": 39900000,
+      "description": "Mobil listrik eksklusif (2x bagasi besar)",
+      "capacity": "2",
+      "estimation": "Est. sejauh 9 mnt",
+      "currency": "IDR",
+      "vehicle_id": 13205,
+      "distance_in_meter": 24327
+    }
+  ]
+}

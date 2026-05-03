@@ -1,0 +1,22 @@
+{
+  "name": "pena-mrscraper-test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/davidkhlim/pena-mrscraper-test#readme",
+  "bugs": {
+    "url": "https://github.com/davidkhlim/pena-mrscraper-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkhlim/pena-mrscraper-test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "process": "node src/process-data.js",
+    "analyze": "node src/analyze-mismatch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
